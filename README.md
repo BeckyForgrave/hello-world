@@ -1,2 +1,2 @@
 # hello-world
-for datra basics workshop
+for data basics workshop
